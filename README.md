@@ -2,6 +2,8 @@
 
 **Version 1.0.0**
 
+<img src="images/home.jpeg">
+
 Bisa Masak is a application with a bunch of list to guide the chef how to cook an indonesian food.
 this application is for submission in "Belajar Membuat Aplikasi Android Pemula" course from dicoding.
 
