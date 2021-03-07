@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bisa Masak</string>
+    <string name="description">Deskripsi</string>
+    <string name="dummy_text">Dolor sit amet\n
+        Dolor sit amet\n
+        Dolor sit amet\n
+        Dolor sit amet\n
+        Dolor sit amet\n
+        Dolor sit amet\n
+        Dolor sit amet\n
+        Dolor sit amet\n
+    </string>
+    <string name="ingredients">Bahan yang diperlukan:</string>
+    <string name="steps">Langkah-langkah:</string>
+    <string name="share">Bagikan</string>
+    <string name="about_me_name">Fikran Akbar</string>
+    <string name="about_me_desc">First of all, I\'m a computer geek.
+
+I love exploring new things in the world of technology. I remember when Pascal became my first programming language during the national computer science Olympiad. I also learned about the c ++ programming language. This enthusiasm and persistence made me third in the Olympics.
+
+My love for programming has led me to the next competition, which is the entrepreneurial competition in games. This is my first time getting to know a game engine called unity3d. At that time I made a virtual reality horror game with a simple mechanism.
+
+This experience made me fall in love to dive deeper into the world of game development. Knowing that c # is the language used in unity3d, I got used to going through lines of code I mimicked on the internet to get used to it. With this habit, I learned what is called version control, because I often download projects via GitHub. Since then I have had the satisfaction of successfully completing the game system and I am very grateful to have found them all.
+
+Do you like playing games? Are you also interested in making games? If so, feel free to discuss it with me, I will help you to make it come true </string>
+    <string name="email">fikranakbar756@gmail.com</string>
+    <string name="launcher_text">BISA MASAK</string>
+</resources>
